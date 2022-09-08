@@ -5,10 +5,10 @@ function App() {
 
   return (
   <SafeAreaView style={styles.container}>
-    <Card title = "asahin25" text="Deneme Yazısıdır."/>
-    <Card title = "naytar" text="Deneme Yazısıdır."/>
-    <Card title = "myildi90" text="Deneme Yazısıdır."/>
-    <Card title = "ecanci" text="Deneme Yazısıdır."/>
+    <Card title = "Oğuzhan" text="Deneme Yazısıdır."/>
+    <Card title = "Vedat" text="Deneme Yazısıdır."/>
+    <Card title = "Pelinnur" text="Deneme Yazısıdır."/>
+    <Card title = "Enes" text="Deneme Yazısıdır."/>
   </SafeAreaView>
   );
 }
